@@ -1,0 +1,13 @@
+{
+  "name": "fetchagent-runtime",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "ethers": "^6.15.0",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2"
+  }
+}
